@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>酥酥老师的照片鉴赏</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div style="max-width:700px; background-color:pink; color:grey; text-align:center;margin:10px auto; padding:15px">
+
+      <h1 style="color:grey; padding:20px; font-size:40px">今天要做一个小网页练练手，那么做点什么好呢？ </h1>
+        <p style="font-size:25px "> 要不就做一个酥老师的照片赏析吧！</p>
+      </div>
+      <div style="max-width:700px;background-color:white; text-align:center; margin:10px auto; padding:20px; display:block;" >
+        <img class="fit-picture"
+        src="https://z1.ax1x.com/2023/09/17/pPh8v5R.jpg" height="400px" width="400px" </img>
+         <p style="font-size:25px; color:pink "> 虽然有点土味，但是这里还是放一个爱心吧~</p>
+          <h1 style="color:grey; padding:20px; font-size:25px">OK，那么第一张是哪个呢？ </h1>
+      </div> 
+      <div style="max-width:700px;background-color:white; text-align:center; margin:10px auto; padding:20px; display:block"
+        <img class="fit=picture"
+          src="<a href="https://imgloc.com/image/HL9v"><img src="https://i.imgs.ovh/2023/09/17/HL9v.md.jpeg" alt="HL9v.jpeg" border="0" height="400px" width="400px"/></a> </img>
+        <p style="font-size:20px; color:grey "> BA BA LA BA!  必须这张，最喜欢的~</p>
+        <img class="fit=picture"
+          src="https://z1.ax1x.com/2023/09/17/pPhGOQf.jpg" height="400px" width="400px" </img>
+        <p style="font-size:20px; color:grey "> 然后是最近的样子，嗯这张很有气质</p>
+        <img class="fit=picture"
+          src="https://i.imgs.ovh/2023/09/17/HrMe.jpeg" height="400px" width="400px" </img>
+        <p style="font-size:20px; color:grey "> 小时候也很可爱哦</p>
+         <img class="fit=picture"
+          src="https://i.imgs.ovh/2023/09/17/H2u3.jpeg" height="400px" width="400px" </img>
+        <p style="font-size:20px; color:grey "> 值得纪念的时刻，而且这张感觉没怎么P，主打一个真实？</p>
+      
+      
+      <div style="max-width:700px; background-color:pink; color:grey; text-align:center; padding:20px; font-size:20px; margin:10px auto;padding:15px">
+        
+        <h1 style="color:grey; padding:20px">所以酥老师最钟意的是哪张呢？ </h1>
+          <p>微信搜索“王艺富 | Johnson“，立刻回复你的看法！ </p>
+
+           <h1 style="color:grey;  font-size:20px; padding:20px">喜欢这个网页吗？那就给他发个爱心吧~ </h1>
+          
+           <label for="checkbox"
+        <input type="checkbox" id="checkbox" hidden>
+        <svg t="1639041971928" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3128"><path d="M512 896a42.666667 42.666667 0 0 1-30.293333-12.373333l-331.52-331.946667a224.426667 224.426667 0 0 1 0-315.733333 223.573333 223.573333 0 0 1 315.733333 0L512 282.026667l46.08-46.08a223.573333 223.573333 0 0 1 315.733333 0 224.426667 224.426667 0 0 1 0 315.733333l-331.52 331.946667A42.666667 42.666667 0 0 1 512 896z" p-id="3129" id="heart"></path></svg>
+        <span></span>
+    </label>
+   
+      </div>
+  </body>
+</html>
